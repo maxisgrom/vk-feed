@@ -1,2 +1,2 @@
 # vk-feed
-Vk feed in VueJS
+Simple news feed from VK.com written in VueJS
